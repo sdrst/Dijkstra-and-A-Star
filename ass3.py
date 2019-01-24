@@ -1,6 +1,5 @@
 #Sam Durst
-#sd922
-#Assignment 3
+
 import math # this imported module is only used to square root the heuristic
 import time # to determine how long the program runs, has no effect on the program itself
 
